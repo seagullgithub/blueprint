@@ -15,6 +15,6 @@ templatesPath = C:\Users\user\.blueprint\
 ```
 <templatepath>
 ├ root/
-│ └ {files & folders}
+│ └ <files & folders>
 └ blueprint.json
 ```
