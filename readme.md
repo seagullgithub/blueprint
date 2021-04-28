@@ -12,7 +12,9 @@ templatesPath = C:\Users\user\.blueprint\
 
 ## add templates
 
+```
 <templatepath>
 ├ root/
-│ └ <files & folders>
+│ └ {files & folders}
 └ blueprint.json
+```
