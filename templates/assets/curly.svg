@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="37.909515"
+   height="90.580269"
+   viewBox="0 0 37.909515 90.580269"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (1:1.2.1+202207142221+cd75a1ee6d)"
+   sodipodi:docname="curly.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="100px"
+     inkscape:zoom="3.6692466"
+     inkscape:cx="-14.035579"
+     inkscape:cy="72.085642"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.1262665,-4.4308999)">
+    <path
+       d="m 43.035783,88.109812 v 6.901358 h -2.971416 q -11.933589,0 -16.007304,-3.546534 -4.025792,-3.546525 -4.025792,-14.138188 V 65.872122 q 0,-7.23684 -2.588003,-10.016553 -2.58801,-2.779709 -9.3935125,-2.779709 h -2.923489 v -6.853427 h 2.923489 q 6.8534265,0 9.3935125,-2.731788 2.588003,-2.779709 2.588003,-9.920697 V 22.067691 q 0,-10.591665 4.025792,-14.0902663 4.073715,-3.5465248 16.007304,-3.5465248 h 2.971416 v 6.8534271 h -3.25897 q -6.757573,0 -8.818401,2.108749 -2.060818,2.108742 -2.060818,8.866322 v 11.885665 q 0,7.524392 -2.204598,10.92714 -2.156673,3.402749 -7.428539,4.600901 5.31979,1.294004 7.476463,4.696761 2.156674,3.402746 2.156674,10.879217 v 11.885663 q 0,6.757574 2.060818,8.866325 2.060828,2.108742 8.818401,2.108742 z"
+       id="path235"
+       style="font-size:13.3333px;line-height:1.25;-inkscape-font-specification:'sans-serif, Normal';stroke-width:0.999997" />
+  </g>
+</svg>
